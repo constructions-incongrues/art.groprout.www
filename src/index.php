@@ -5,7 +5,7 @@ $i = 0;
 <html>
     <head>
         <meta charset="utf-8">
-        <title>JE SUIS GROPROUT!</title>
+        <title>La Réunion des Musées Nationaux présente...</title>
         <style>
             @import url("fonts/font.css");
             @import url("css/default.css"); 
